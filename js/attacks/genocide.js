@@ -105,7 +105,7 @@ var g_ag3 = {
 		{ direction: "R", turntype: 0, target_time: 4.2, speed: 300 },
 		{ direction: "R", turntype: 0, target_time: 4.4, speed: 300 },
 		{ direction: "R", turntype: 0, target_time: 4.6, speed: 300 },
-		{ direction: "+1", turntype: 2, target_time: 4.8, speed: 300 },
+		{ direction: "R", turntype: 2, target_time: 4.8, speed: 300 },
 		{ direction: "+3", turntype: 0, target_time: 5.0, speed: 300 },
 		{ direction: "+3", turntype: 3, target_time: 5.2, speed: 300 },
 		{ direction: "+3", turntype: 0, target_time: 5.4, speed: 300 },
