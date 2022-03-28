@@ -3,7 +3,7 @@ var g_ag1 = {
 	id: "g_ag1",
 	next_time: 4.8,
 	arrows: [
-		{ direction: "+1", turntype: 2, target_time: 0.0, speed: 300 },
+		{ direction: "R", turntype: 2, target_time: 0.0, speed: 300 },
 		{ direction: "+3", turntype: 0, target_time: 0.2, speed: 300 },
 		{ direction: "+3", turntype: 3, target_time: 0.4, speed: 300 },
 		{ direction: "+3", turntype: 0, target_time: 0.6, speed: 300 },
