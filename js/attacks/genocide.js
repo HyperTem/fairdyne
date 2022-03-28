@@ -112,7 +112,7 @@ var g_ag3 = {
 		{ direction: "+2", turntype: 2, target_time: 5.6, speed: 300 },
 		{ direction: "+0", turntype: 3, target_time: 5.8, speed: 300 },
 		{ direction: "+2", turntype: 2, target_time: 6.0, speed: 300 },
-		{ direction: "+0", turntype: 3, target_time: 6.2, speed: 300 },
+		{ direction: "+0", turntype: 3, target_time: 6.20, speed: 300 },
 	],
 	next_sets: ["g_sp3"],
 };
