@@ -115,7 +115,7 @@ GameState.prototype.restartGame = function(difficulty) {
 		case "hard":
 			heart.invincibility_increment = 500; break;
 		case "genocide":
-			heart.invincibility_increment = 500; break;
+			heart.invincibility_increment = 1000; break;
 		case "aprilfools":
 			heart.invincibility_increment = 100; break;
 	}
