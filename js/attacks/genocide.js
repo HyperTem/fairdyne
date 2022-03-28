@@ -11,6 +11,7 @@ var g_ag1 = {
 		{ direction: "+2", turntype: 3, target_time: 1.0, speed: 300 },
 		{ direction: "+2", turntype: 2, target_time: 1.2, speed: 300 },
 		{ direction: "+2", turntype: 3, target_time: 1.4, speed: 300 },
+		
 		{ direction: "$3", turntype: 0, target_time: 0.0, speed: 40 },
 		{ direction: "$3", turntype: 0, target_time: 1.6, speed: 40 },
 		{ direction: "$3", turntype: 0, target_time: 3.2, speed: 40 },
